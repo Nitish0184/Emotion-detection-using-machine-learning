@@ -1,4 +1,4 @@
 [core]
-    remote = local
-['remote "local"']
-    url = /temp
+    remote = cloud_storage
+['remote "cloud_storage"']
+    url = s3://nitish-mlops-proj
